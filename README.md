@@ -76,4 +76,4 @@ Add Swagger documentation to your project. You can use 2 or 3 versions or ask yo
 
 [Task 23] - Spring Boot Tests CLOSE
 
-Write Integration(or/and System) tests using Spring Boot Test, H2 DB (it is possible to use Database Ride
+Write Integration(or/and System) tests using Spring Boot Test, H2 DB (it is possible to use Database Rider)
