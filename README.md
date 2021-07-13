@@ -1,4 +1,4 @@
-# -Task_University
+# Task_University
 
 This app is a tutorial Foxminded project and contains the following tasks:
 
